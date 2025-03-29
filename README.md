@@ -3,7 +3,7 @@
 # Predicción de Hit Musical
 
 > En este repositorio hay tres notebooks donde se busca crear el mejor modelo con el dataset de Million Song para predecir un Hit, es decir que va a tener muchas
-> reproducciones
+> reproducciones.
 ## Built With
 
 - Python
